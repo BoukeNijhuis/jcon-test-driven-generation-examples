@@ -69,7 +69,7 @@
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
                     <testFilePath>
-                        /Users/boukenijhuis/git/devoxx-uk-test-driven-generation-examples/src/test/java/org/example/endpoint/EndpointTest.java
+                        /Users/boukenijhuis/git/jcon-test-driven-generation-examples/src/test/java/org/example/endpoint/EndpointTest.java
                     </testFilePath>
 
 <!--                    <family>ollama</family>-->
